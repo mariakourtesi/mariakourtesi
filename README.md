@@ -10,13 +10,8 @@
  <figcaption>Background GIF by <a href="https://github.com/Anmol-Baranwal">Anmol Baranwal</a>  on <a  href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file">cool GIFs for Github</a>.</figcaption>
 </picture>
 <hr style="width:50%;text-align:left;margin-left:0">
-<picture>
-<br>
-<img alt="pacman" src="./assets/pacman.gif"></picture>
-<br><br>
-
-<p>
-<a href="https://www.linkedin.com/in/mariakourtesi/"><img src="./assets/linkedin.gif"width="50"></a>
+<p>Feel free to connect on
+<a href="https://www.linkedin.com/in/mariakourtesi/"><img src="./assets/linkedin.gif"width="40"></a>
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
 <p> My Tech Stack: </p>
