@@ -14,9 +14,8 @@
 <br>
 <img alt="pacman" src="./assets/pacman.gif"></picture>
 <br><br>
-<p>![Visitor Count](https://profile-counter.glitch.me/mariakourtesi/count.svg)</p>
 
-<p>Feel free to connect with me on
+<p>
 <a href="https://www.linkedin.com/in/mariakourtesi/"><img src="./assets/linkedin.gif"width="50"></a>
 </p>
 <hr style="width:50%;text-align:left;margin-left:0">
