@@ -35,11 +35,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="./assets/mysql.jpg" width="100">
 </div>
+ </p>
 <br>
-
-</p>
 <hr style="width:50%;text-align:left;margin-left:0">
 <br>
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 - 🔭 I’m currently working at <a href="https://www.krakenflex.com/">Kraken</a>
 - 🌱 I’m currently learning Rust
