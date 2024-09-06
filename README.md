@@ -47,6 +47,6 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
-<p>Visitors</p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/mariakourtesi/mariakourtesi)]
+
+![Visits Badge](https://badges.pufler.dev/visits/mariakourtesi/mariakourtesi)
