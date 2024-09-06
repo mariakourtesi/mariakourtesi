@@ -40,8 +40,6 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <br>
 
-![Visitor Count](https://profile-counter.glitch.me/mariakourtesi/count.svg)
-<br>
 - 🔭 I’m currently working at <a href="https://www.krakenflex.com/">Kraken</a>
 - 🌱 I’m currently learning Rust
 - 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
@@ -49,3 +47,6 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<p>Visitors</p>
+![Visitor Count](https://profile-counter.glitch.me/mariakourtesi/count.svg)
+<br>
