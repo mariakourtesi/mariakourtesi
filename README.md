@@ -41,7 +41,7 @@
 <br>
 
 ![Visitor Count](https://profile-counter.glitch.me/mariakourtesi/count.svg)
-
+<br>
 - 🔭 I’m currently working at <a href="https://www.krakenflex.com/">Kraken</a>
 - 🌱 I’m currently learning Rust
 - 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
