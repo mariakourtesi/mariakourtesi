@@ -1,14 +1,21 @@
 <div align="left">
 ### Hi there 👋
 <br><br>
-<p>I'm Maria, a software engineer who's passionate about coding and always hungry for learning. I thrive on challenges and am dedicated to honing my skills to stay at the forefront of technology. 💻🚀</p>
+<p>I'm Maria, a Platform/Software engineer who's passionate about coding and always hungry for learning. I thrive on challenges and am dedicated to honing my skills to stay at the forefront of technology. 💻🚀</p>
 <br>
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="./assets/she-codes.gif">
- <source media="(prefers-color-scheme: light)" srcset="./assets/she-codes.gif">
- <img alt="girl saying hello while coding" src="./assets/she-codes.gif">
- <figcaption>Background GIF by <a href="https://github.com/Anmol-Baranwal">Anmol Baranwal</a>  on <a  href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file">cool GIFs for Github</a>.</figcaption>
-</picture>
+<figure style="text-align:left; margin-left:0; max-width:fit-content;">
+  <picture style="display:block;">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/she-codes.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/she-codes.gif">
+    <img alt="girl saying hello while coding" src="./assets/she-codes.gif" style="display:block;">
+  </picture>
+ <br/>
+  <figcaption style="font-size:0.9em; color:gray; margin-top:6px; display:block;">
+    Background GIF by <a href="https://github.com/Anmol-Baranwal">Anmol Baranwal</a> 
+    on <a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file">cool GIFs for GitHub</a>.
+  </figcaption>
+</figure>
+
 <hr style="width:50%;text-align:left;margin-left:0">
 <p>Feel free to connect with me on
 <a href="https://www.linkedin.com/in/mariakourtesi/">
@@ -40,8 +47,8 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <br>
 
-- 🔭 I’m currently working at <a href="https://www.krakenflex.com/">Kraken</a>
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working at <a href=""></a>
+- 🌱 I’m currently learning Kubernetes and Golang
 - 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
 - 😄 Pronouns: She/Her
 <hr style="width:50%;text-align:left;margin-left:0">
