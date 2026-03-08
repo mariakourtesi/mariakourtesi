@@ -58,6 +58,11 @@
 - 😄 Pronouns: She/Her
 <hr style="width:50%;text-align:left;margin-left:0">
 </div>
+<br>
+<h2>Publications </h2>
+<p>M. Vlasakis, M. Kourtesi, I-A. Chousainov, I. Keramidi, D. Uzunidis, O. Zestas, I. D. Moscholios and M. Logothetis, “On the limited-availability group model for multirate Poisson traffic”, Proc. Panhellenic Conf. Electronics and Telecommunications (PACET), University of Patras, Patras, Greece, 23-24 April 2026.</p>
+<br>
+
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 
 ![Visits](https://api.visitorbadge.io/api/VisitorHit?user=mariakourtesi&repo=github-visitors-badge&countColor=%237B1E7A)
