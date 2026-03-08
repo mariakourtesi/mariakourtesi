@@ -27,6 +27,7 @@
  My Tech Stack: 
 <p>
 <div align="left">
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker" width="100"/>
 <img src="./assets/typescript.png" width="100">
 <img src="./assets/aws-logo.png" width="200">
 <img src="./assets/nextjs-logo.jpg" width="200">
@@ -47,7 +48,7 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <br>
 
-- 🔭 I’m currently working at <a href=""></a>
+- 🔭 I’m currently working at <a href="https://www.civica.com/en-gb/">Civica</a>
 - 🌱 I’m currently learning Kubernetes and Golang
 - 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
 - 😄 Pronouns: She/Her
