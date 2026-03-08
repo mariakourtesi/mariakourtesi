@@ -27,7 +27,9 @@
  My Tech Stack: 
 <p>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=git,kubernetes,docker" width="100"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="100"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="100"/>
+  <img src="https://skillicons.dev/icons?i=git" width="100"/>
 <img src="./assets/typescript.png" width="100">
 <img src="./assets/aws-logo.png" width="200">
 <img src="./assets/nextjs-logo.jpg" width="200">
