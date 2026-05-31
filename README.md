@@ -55,6 +55,7 @@
 - 🔭 I’m currently working at <a href="https://www.civica.com/en-gb/">Civica</a>
 - 🌱 I’m currently learning Kubernetes and Golang
 - 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
+     See the source code for my <a href="https://github.com/marias-world/teletraffic-models-ui">Teletraffic loss Models</a> project.
 - 😄 Pronouns: She/Her
 <hr style="width:50%;text-align:left;margin-left:0">
 </div>
