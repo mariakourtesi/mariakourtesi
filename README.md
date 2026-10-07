@@ -52,15 +52,18 @@
 <hr style="width:50%;text-align:left;margin-left:0">
 <br>
 
-- 🌱 I’m currently learning Kubernetes and Golang
-- 📚 Research area: Call losses in Cloud systems serving multidimensional random traffic – The case of the Infrastructure as a Service architecture.
-     See the source code for my <a href="https://github.com/marias-world/teletraffic-models-ui">Teletraffic loss Models</a> project.
+- 🌱 I’m currently a PhD candidate
+- 📚 Research area: Call-Level Performance Evaluation in 6G (Edge-continuum)
+ <a href="https://github.com/marias-world/teletraffic-models-ui">Teletraffic loss Models</a> project.
 - 😄 Pronouns: She/Her
 <hr style="width:50%;text-align:left;margin-left:0">
 </div>
 <br>
 <h2>Publications </h2>
-<p>M. Vlasakis, M. Kourtesi, I-A. Chousainov, I. Keramidi, D. Uzunidis, O. Zestas, I. D. Moscholios and M. Logothetis, “On the limited-availability group model for multirate Poisson traffic”, Proc. Panhellenic Conf. Electronics and Telecommunications (PACET), University of Patras, Patras, Greece, 23-24 April 2026.</p>
+<p>
+  Visit my <a href="https://github.com/marias-world/teletraffic-models-ui">Publications page</a>
+   to view all my publications
+</p>
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
